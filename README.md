@@ -86,3 +86,8 @@ DROP COLUMN row_num;
 1. **Zero Data Corruption:** Safely converted unstructured currency text into precise decimal data types without data loss.
 2. **Time-Series Ready:** Standardized date fields, opening up historical analytics tracking for stakeholders.
 3. **Optimized I/O Execution:** Grouped row operations together, providing an framework that scales efficiently over larger production datasets.
+
+
+## connect with me 
+* **LinkedIn:**www.linkedin.com/in/mustapha-abdulsamod
+* **Email:** Olamilekanmustaphaayinde383@gmail.com 
